@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+}
+
+.bg, .container {
+    width: 50%;
+}
+
+.bg {
+    background-image: url("./img/train.svg");
+    height: 100vh;
+}
+
